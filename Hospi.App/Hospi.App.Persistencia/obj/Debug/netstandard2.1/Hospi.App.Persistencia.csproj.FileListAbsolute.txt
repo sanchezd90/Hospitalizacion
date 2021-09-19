@@ -1,0 +1,5 @@
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/Debug/netstandard2.1/Hospi.App.Persistencia.csproj.AssemblyReference.cache
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/Debug/netstandard2.1/Hospi.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/Debug/netstandard2.1/Hospi.App.Persistencia.AssemblyInfoInputs.cache
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/Debug/netstandard2.1/Hospi.App.Persistencia.AssemblyInfo.cs
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/Debug/netstandard2.1/Hospi.App.Persistencia.csproj.CoreCompileInputs.cache

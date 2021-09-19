@@ -1,0 +1,205 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Consola/Hospi.App.Consola.csproj": {}
+  },
+  "projects": {
+    "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Consola/Hospi.App.Consola.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Consola/Hospi.App.Consola.csproj",
+        "projectName": "Hospi.App.Consola",
+        "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Consola/Hospi.App.Consola.csproj",
+        "packagesPath": "/Users/danielsanchez/.nuget/packages/",
+        "outputPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Consola/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielsanchez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj": {
+                "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj"
+              },
+              "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/Hospi.App.Persistencia.csproj": {
+                "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/Hospi.App.Persistencia.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj",
+        "projectName": "Hospi.App.Dominio",
+        "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj",
+        "packagesPath": "/Users/danielsanchez/.nuget/packages/",
+        "outputPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielsanchez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/Hospi.App.Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/Hospi.App.Persistencia.csproj",
+        "projectName": "Hospi.App.Persistencia",
+        "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/Hospi.App.Persistencia.csproj",
+        "packagesPath": "/Users/danielsanchez/.nuget/packages/",
+        "outputPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/danielsanchez/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj": {
+                "projectPath": "/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/Hospi.App.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

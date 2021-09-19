@@ -1,0 +1,10 @@
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/bin/Debug/netstandard2.1/Hospi.App.Dominio.deps.json
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/bin/Debug/netstandard2.1/Hospi.App.Dominio.dll
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/bin/Debug/netstandard2.1/Hospi.App.Dominio.pdb
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.csproj.AssemblyReference.cache
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.AssemblyInfoInputs.cache
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.AssemblyInfo.cs
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.csproj.CoreCompileInputs.cache
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.dll
+/Users/danielsanchez/Hospitalizacion/Hospi.App/Hospi.App.Dominio/obj/Debug/netstandard2.1/Hospi.App.Dominio.pdb
